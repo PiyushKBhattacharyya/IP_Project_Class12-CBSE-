@@ -23,7 +23,7 @@ pip install numpy;
 ```
 4. Tkinter
 ```
-pip install tkinter;
+pip install tk;
 ```
 5. Rich
 ```
