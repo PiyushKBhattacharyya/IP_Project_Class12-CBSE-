@@ -10,7 +10,13 @@ PRE-REQUISITE KNOWLEDGE:
 
 DEPENDENCIES:
 ```
-pip install matplotlib, pandas, numpy, tkinter, rich, mysql, Ipython
+pip install matplotlib;
+pip install pandas;
+pip install numpy;
+pip install tkinter;
+pip install rich;
+pip install mysql;
+pip install Ipython;
 ```
 
 CSV used:
